@@ -1,1 +1,1 @@
-# BridgeLabz-SIPP-Training
+Core-Programming
