@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FizzBuzz {
+public class FizzBuzzUsingFor {
 
 	public static void main(String[] args) {
 		// Taking the number input from the user 
